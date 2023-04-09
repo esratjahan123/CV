@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<center><h1>CURRICULUM VITAE</h1>
+<h2>Esrat Jahan Elma</h2>
+<html>
+<body>
+
+Student of Daffodil International University<br>
+Address:Ashulia,Savar<br>
+Email:<a href="elma15-4342@diu.edu.bd" target="_blank">elma15-4342@diu.edu.bd</a> <br>
+
+<img src="https://i.postimg.cc/pTjkGvVY/WIN-20211217-23-32-40-Pro-2.jpg"style="width:109px;height:144px;">
+
+<hr>
+</center>
+<h3 style="color:SlateBlue;">CARRER OBJECTIVE </h3>
+<hr>
+To secure a challanging position in a reputable organization to  expand my learnings, knowledge and skills.Want to become a successful web developer in IT sector.<br>
+<hr>
+<h3 style="color:SlateBlue;"> JOB EXPERIENCE</h3>
+<hr>
+Not did any job yet.
+<br>
+<hr>
+<h3 style="color:SlateBlue;"> SKILL </h3>
+<hr>
+<ul>
+  <li>C,C++</li>
+  <li>Python</li>
+  <li>Ms word,Ms Office,Java</li>
+</ul>  
+<hr>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<h3 style="color:SlateBlue;">ACADEMIC QUALIFICATION</h3>
+<hr>
+
+<table style="width:100%">
+  <tr><th>Degree</th>
+    <th>Year</th>
+    <th>Institution</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td>HSC</td>
+    <td>2020</td>
+    <td>Naogaon Govt College</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td>2018</td>
+    <td>Mithapur BL High School</td>
+    <td>5</td>
+  </tr>
+</table>
+
+<h3 style="color:SlateBlue;" >EXTRA CURRICULUM ACTIVITIES</h3>
+
+<hr>
+<ul>
+  <li>Worked as DIU girls computer programming club.</li>
+  <li>Worked as a general member at DIU CPC.</li>
+  <li>Worked as volunteer at ICT carnival.</li>
+</ul>  
+<hr>
+<h3 style="color:SlateBlue;">LINGUISTIC PROFICIENCY</h3>
+<hr>
+<ul>
+  <li>English:Efficiency in reading ,writting,speaking.</li>
+  <li>Bangla:Efficiency in reading ,writting,speaking.</li>
+  <li>Arabic:Efficiency in reading,speaking.</li>
+</ul>  
+<hr>
+<h3 style="color:SlateBlue;" >PERSONAL INFORMATION</h3>
+<hr>
+<ul>
+  <li>Father's Name: MD: Rayhan Alam</li>
+  <li>Mother's Name: Tuhin Ara</li>
+  <li>Date of Birth: 22-10-2002</li>
+  <li>Religion:Islam</li>
+  <li>Nationality:Bangladeshi</li>
+</ul>  
+<hr>
+
+
+</body>
+</html>
+
+</body>
+</html>
